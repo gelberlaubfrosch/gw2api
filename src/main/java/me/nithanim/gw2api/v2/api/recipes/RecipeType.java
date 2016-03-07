@@ -32,6 +32,6 @@ public enum RecipeType {
     }
 
     public enum RecipeCategory {
-        WEAPON, ARMOR, TRINKET, FOOD, CRAFTING_COMPONENT, REFINEMENT, OTHER;
+        WEAPON, ARMOR, TRINKET, FOOD, CRAFTING_COMPONENT, REFINEMENT, SCRIBE, OTHER;
     }
 }
